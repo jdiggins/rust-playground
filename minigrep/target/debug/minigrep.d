@@ -1,1 +1,1 @@
-C:\Users\JCDig\Documents\Working\ Projects\RUST\playground\minigrep\target\debug\minigrep.pdb: C:\Users\JCDig\Documents\Working\ Projects\RUST\playground\minigrep\src\main.rs
+C:\Users\JCDig\Documents\Working\ Projects\RUST\playground\minigrep\target\debug\minigrep.pdb: C:\Users\JCDig\Documents\Working\ Projects\RUST\playground\minigrep\src\lib.rs C:\Users\JCDig\Documents\Working\ Projects\RUST\playground\minigrep\src\main.rs
