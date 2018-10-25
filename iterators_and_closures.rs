@@ -112,12 +112,13 @@ fn generate_workout_without_closure(intensity: u32, random_number: u32) {
         }
     }
 }
+/* implement iterator */
 
 struct Counter {
     count: u32,
 }
 
-/* implement iterator */
+
 impl Counter {
     fn new() -> Counter {
         Counter { count: 0}
@@ -174,4 +175,6 @@ fn main() {
     for val in v2_iter {
         println!("Got: {}", val);
     }
+
+
 }
